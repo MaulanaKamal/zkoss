@@ -1,0 +1,6 @@
+<vbox vflex="1" hflex="1" align="center" pack="center" spacing="20px">
+	<image src="/imgs/png.png" />
+	<separator />
+	<separator />
+	<label value="Welcome ${sessionScope.userCredential.name}" sclass="head1" />
+</vbox>

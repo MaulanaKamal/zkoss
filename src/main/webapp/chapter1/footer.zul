@@ -1,0 +1,8 @@
+<div hflex="1"  sclass="footer">
+	<vbox hflex="1" align="center">
+		<separator />
+		FIF ASTRA / DAF Application
+		<separator />
+		<separator />
+	</vbox>
+</div>

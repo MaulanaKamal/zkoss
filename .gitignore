@@ -1,0 +1,7 @@
+.settings/
+assembly/
+target/
+/data
+*.classpath
+*.project
+*.iml
